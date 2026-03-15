@@ -7,6 +7,9 @@ public class CCuenta {
     private double saldo;
     private double tipoInterés;
 
+    /**
+     * @return
+     */
     private double getTipoInterés() {
 		return tipoInterés;
 	}
